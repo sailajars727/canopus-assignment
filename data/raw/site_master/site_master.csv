@@ -1,0 +1,15 @@
+site_id,site_name,city,region,site_category
+S001,Facility 1,Seattle,North,retail
+S002,Facility 2,Denver,North,retail
+S003,Facility 3,Portland,West,retail
+S004,Facility 4,Denver,West,warehouse
+S005,Facility 5,Boston,North,warehouse
+S006,Facility 6,Boston,East,office
+S007,Facility 7,Denver,North,retail
+S008,Facility 8,Denver,East,office
+S009,Facility 9,Seattle,East,office
+S010,Facility 10,Portland,West,retail
+S011,Facility 11,Seattle,North,warehouse
+S012,Facility 12,Miami,East,office
+S013,Facility 13,Miami,South,warehouse
+S014,Facility 14,Seattle,East,office

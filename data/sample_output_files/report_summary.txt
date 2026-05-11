@@ -1,0 +1,5 @@
+Total events: 15000
+Total alerts: 1797
+Top 5 devices by alert count chart: screenshots/top_devices_by_alerts.png
+Site daily trend chart: screenshots/site_daily_event_trend.png
+Average battery by site chart: screenshots/avg_battery_by_site.png
